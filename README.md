@@ -1,4 +1,4 @@
-================================== Project Meta Data ===================================
+================================ Project Meta Data =================================
 
 Project: 	COEN 313 Digital Design Project - Occupancy Tracker
 
