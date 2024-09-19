@@ -1,11 +1,16 @@
 ================================== Project Meta Data ===================================
 
 Project: 	COEN 313 Digital Design Project - Occupancy Tracker
+
 Contributor: 	Mohammad Masoud Sharafat Mohammad.
+
 Student ID: 	40209284.
 Performed on: 	Scientific Linux, version used in Concordia Computer Labs.
+
 Software used: 	Modelsim, and Vivado 2018.2.
+
 Target board: 	Xilinx A7 FPGA development board
+
 		xc7a100tcsg324-1
 
 ================================== Folder Description ==================================
